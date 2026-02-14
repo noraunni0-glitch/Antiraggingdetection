@@ -13,7 +13,7 @@
 - Member 2: Nithya J Shine - LBSITW
 
 ### Hosted Project Link
-[file:///C:/Users/NITHYA%20J%20Shine/Desktop/tinkerhack%204/index.html]
+http://127.0.0.1:5000/
 
 ### Project Description
 An antiragging detection system which reports anonymously
